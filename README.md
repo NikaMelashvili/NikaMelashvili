@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on **Projects**
-
 - 📫 How to reach me **melashvilinikusha63@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
